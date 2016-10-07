@@ -1,6 +1,20 @@
 ﻿.bg-1 {
     background-color: mediumpurple;
     color: #ffffff;
-    height: 100vh;
+}
+
+.bg-2 {
+    background-color: deepskyblue;
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: red;
+    color: #ffffff;
+}
+
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
