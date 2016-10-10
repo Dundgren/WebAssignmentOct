@@ -9,5 +9,6 @@ namespace WebAssignmentOct.Models
     {
         public string Title { get; set; }
         public string Description { get; set; }
+        public string Period { get; set; }
     }
 }
